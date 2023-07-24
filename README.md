@@ -1,7 +1,5 @@
 # Basic-Smart-Vacuum-Mop-Project-on-VHDL
 
-![Smart Vacuum Mop](images/vacuum_mop.jpg)
-
 ## Description
 
 This repository contains the code for a smart vacuum mop project implemented on the Basys3 FPGA development board. The project aims to create an intelligent device that moves in a straight line until it detects objects in front of it. When an obstacle is detected, it rotates in another direction to continue cleaning.
