@@ -33,7 +33,6 @@ This repository contains the code for a smart vacuum mop project implemented on 
 
 ## Hardware Setup
 
-![Hardware Setup](images/hardware_setup.jpg)
 
 1. Connect the Ultrasonic Sensor to the Basys3 board.
 2. Connect the DC Motors for movement.
@@ -44,7 +43,7 @@ This repository contains the code for a smart vacuum mop project implemented on 
 1. Clone this repository to your local machine:
 
 ## bash
-git clone https://github.com/your_username/smart-vacuum-mop.git
+git clone https://github.com/YusufSemihGurkok/Basic-Smart-Vacuum-Mop-Project-on-VHDL.git
 cd smart-vacuum-mop
 
 Open the project in Xilinx Vivado Design Suite.
